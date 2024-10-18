@@ -41,11 +41,71 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C147%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-870-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.3%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                11 commits          ████████████████░░░░░░░░░   64.71 % 
+🌃 Evening                5 commits           ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   15 commits          ██████████████████████░░░   88.24 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             █████████████████████░░░░   83.33 % 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+
+ Last Updated on 18/10/2024 15:02:42 UTC
 <!--END_SECTION:waka-->
 
 ## <a id="en">Description in English</a>
