@@ -1,15 +1,16 @@
-## Hi there 👋
+# 👾 Manel Tarazona García <img src="https://media.giphy.com/media/WxD5WgWyik3ZTvzswx/giphy.gif" width="50"></h2>
 
 **`Software Developer`**
 
 [Español](#es) | [English](#en)
 
 ## <a id="es">Descripción en Español</a>
-Este es un proyecto de ejemplo en español.
+Soy un desarrollador full-stack junior de España y busco dejar mi huella en el mundo digital paso a paso. Me apasiona el mundo del desarrollo de software y la tecnología, desde el desarrollo móvil para Android o iOS hasta el desarrollo de aplicaciones de escritorio o webs.
+Me gustaría poder llegar a solucionar problemas reales con mis aplicaciones.
 
 
 ## <a id="en">Description in English</a>
-This is an example project in English.
+I am a junior full-stack developer based in Spain looking to leave my mark in the digital world step by step. I am passionate about software development and technology, from mobile development for Android or iOS to desktop or web application development. I would like to solve real-life problems with my applications.
 
 
 <!--
