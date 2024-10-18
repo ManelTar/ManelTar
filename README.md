@@ -1,6 +1,10 @@
-# 👾 Manel Tarazona García <img src="https://media.giphy.com/media/F1PCWI1qngvzq/giphy.gif" width="50"></h2>
+# 👾 Manel Tarazona García <img src="https://media.giphy.com/media/F1PCWI1qngvzq/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="200">
 
 **`Software Developer`**
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: manel](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manel-tarazona-garcía-0b4908252/)](https://www.linkedin.com/in/manel-tarazona-garcía-0b4908252/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 
 [Español](#es) | [English](#en)
 
