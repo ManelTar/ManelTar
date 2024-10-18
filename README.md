@@ -1,4 +1,6 @@
-# 👾 Manel Tarazona García <img src="https://media.giphy.com/media/F1PCWI1qngvzq/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="200">
+# 👾 Manel Tarazona García <img src="https://media.giphy.com/media/F1PCWI1qngvzq/giphy.gif" width="50"></h2> 
+
+<img align='right' src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="180">
 
 **`Software Developer`**
 
