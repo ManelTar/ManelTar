@@ -38,6 +38,16 @@ const Manel = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con personas diferentes</b>, así que si quieres saludar, ¡<b>estaré encantado de conocerte más! :)</b></em>
 
+---
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C147%20hrs%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-870-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+<!--END_SECTION:waka-->
+
 ## <a id="en">Description in English</a>
 I am a junior full-stack developer based in Spain looking to leave my mark in the digital world step by step. I am passionate about software development and technology, from mobile development for Android or iOS to desktop or web application development. I would like to solve real-life problems with my applications.
 
