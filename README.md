@@ -11,7 +11,7 @@
 Soy un desarrollador full-stack junior de España y busco dejar mi huella en el mundo digital paso a paso. Me apasiona el mundo del desarrollo de software y la tecnología, desde el desarrollo móvil para Android o iOS hasta el desarrollo de aplicaciones de escritorio o webs.
 Me gustaría poder llegar a solucionar problemas reales con mis aplicaciones.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...  
+### <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="50"> Un poco más sobre mi...  
 ```javascript
 const Manel = {
     pronombre: "El" | "Le",
@@ -36,8 +36,12 @@ const Manel = {
 };
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con personas diferentes</b>, así que si quieres saludar, ¡<b>estaré encantado de conocerte más! :)</b></em>
+
 ## <a id="en">Description in English</a>
 I am a junior full-stack developer based in Spain looking to leave my mark in the digital world step by step. I am passionate about software development and technology, from mobile development for Android or iOS to desktop or web application development. I would like to solve real-life problems with my applications.
+
+### <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const Manel = {
     pronoun: "He" | "Him",
@@ -61,6 +65,8 @@ const Manel = {
     currentFocus: "I'm learning cybersecurity!"
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b></em>
 
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
