@@ -119,7 +119,7 @@ const Manel = {
  > 
 > 🏆 26 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> ✅ Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
