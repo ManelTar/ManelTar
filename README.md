@@ -109,7 +109,7 @@ const Manel = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.3%20thousand%20lines%20of%20code-blue)
 
@@ -119,7 +119,7 @@ const Manel = {
  > 
 > 🏆 31 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
@@ -174,7 +174,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 07:27:55 UTC
+ Last Updated on 22/10/2024 07:40:55 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
