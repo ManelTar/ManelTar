@@ -107,9 +107,9 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-235-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20thousand%20lines%20of%20code-blue)
 
@@ -152,17 +152,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     5 hrs 40 mins       ██████████████████████░░░   87.44 % 
-Kotlin                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Dart                     10 hrs 49 mins      ███████████████████████░░   92.62 % 
+Kotlin                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           6 hrs 29 mins       █████████████████████████   100.00 % 
+Android Studio           11 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -176,7 +176,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 25/10/2024 01:09:08 UTC
+ Last Updated on 27/10/2024 19:17:49 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
