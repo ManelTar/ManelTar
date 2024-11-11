@@ -107,7 +107,9 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2053%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20thousand%20lines%20of%20code-blue)
 
@@ -115,7 +117,7 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 65 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -123,6 +125,45 @@ const Manel = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                27 commits          ██████████████░░░░░░░░░░░   56.25 % 
+🌃 Evening                19 commits          ██████████░░░░░░░░░░░░░░░   39.58 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   23 commits          ████████████░░░░░░░░░░░░░   47.92 % 
+Saturday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Dart                     11 hrs 27 mins      ████████████████████████░   94.24 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Android Studio           12 hrs 9 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -134,7 +175,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 01:11:45 UTC
+ Last Updated on 11/11/2024 01:09:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
