@@ -109,15 +109,13 @@ const Manel = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 66 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -152,15 +150,15 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     11 hrs 1 min        ████████████████████████░   94.04 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Dart                     7 hrs 58 mins       ███████████████████████░░   91.94 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Android Studio           11 hrs 43 mins      █████████████████████████   100.00 % 
+Android Studio           8 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -174,7 +172,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/11/2024 01:07:58 UTC
+ Last Updated on 14/11/2024 01:08:03 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
