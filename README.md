@@ -117,8 +117,6 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -177,7 +175,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 24/11/2024 01:16:17 UTC
+ Last Updated on 25/11/2024 01:13:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
