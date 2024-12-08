@@ -117,8 +117,6 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -152,17 +150,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Kotlin                   8 mins              ████████████████░░░░░░░░░   63.40 % 
-Gradle                   4 mins              █████████░░░░░░░░░░░░░░░░   36.41 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -176,7 +170,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/12/2024 01:13:54 UTC
+ Last Updated on 08/12/2024 01:19:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
