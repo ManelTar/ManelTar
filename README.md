@@ -107,7 +107,7 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -152,13 +152,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C#                       1 hr 17 mins        █████████████████████████   100.00 % 
+C#                       47 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 17 mins        █████████████████████████   100.00 % 
+Visual Studio            47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -172,7 +172,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 01:08:32 UTC
+ Last Updated on 08/02/2025 01:06:17 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
