@@ -107,8 +107,6 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20thousand%20lines%20of%20code-blue)
@@ -125,42 +123,6 @@ const Manel = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-🌆 Daytime                27 commits          ██████████████░░░░░░░░░░░   56.25 % 
-🌃 Evening                19 commits          ██████████░░░░░░░░░░░░░░░   39.58 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   23 commits          ████████████░░░░░░░░░░░░░   47.92 % 
-Saturday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-C#                       4 hrs 7 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Visual Studio            4 hrs 7 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -172,7 +134,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 01:07:36 UTC
+ Last Updated on 16/02/2025 01:13:57 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
