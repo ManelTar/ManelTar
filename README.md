@@ -152,17 +152,13 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C#                       11 mins             ███████████░░░░░░░░░░░░░░   43.18 % 
-Binary                   9 mins              █████████░░░░░░░░░░░░░░░░   36.20 % 
-Razor                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -177,7 +173,7 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 08/04/2025 01:14:26 UTC
+ Last Updated on 09/04/2025 01:14:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
