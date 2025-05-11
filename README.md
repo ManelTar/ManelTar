@@ -107,7 +107,7 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -152,15 +152,15 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     3 hrs 32 mins       █████████████████████████   98.90 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Dart                     7 hrs 12 mins       ████████████████████████░   97.19 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -174,7 +174,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 01:15:26 UTC
+ Last Updated on 11/05/2025 01:23:00 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
