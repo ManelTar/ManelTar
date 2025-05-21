@@ -107,7 +107,7 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -116,6 +116,8 @@ const Manel = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -150,18 +152,18 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     11 hrs 34 mins      █████████████████████████   99.04 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Kotlin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Dart                     12 hrs 37 mins      █████████████████████████   99.12 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Kotlin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Wavefront Material       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Wavefront Object         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   99.71 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  12 hrs 41 mins      █████████████████████████   99.74 % 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -174,7 +176,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 20/05/2025 01:20:09 UTC
+ Last Updated on 21/05/2025 01:19:44 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
