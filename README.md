@@ -107,17 +107,15 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2025
+> 🏆 43 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -125,47 +123,6 @@ const Manel = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-🌆 Daytime                36 commits          ███████████████░░░░░░░░░░   58.06 % 
-🌃 Evening                21 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  19 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Friday                   18 commits          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Saturday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Dart                     12 hrs 37 mins      █████████████████████████   99.12 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Kotlin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Wavefront Material       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Wavefront Object         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   99.74 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-💻 Operating System: 
-Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -176,7 +133,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 21/05/2025 01:19:44 UTC
+ Last Updated on 22/05/2025 01:18:55 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
