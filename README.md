@@ -117,6 +117,8 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -150,14 +152,13 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     2 mins              █████████████████████████   99.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -170,7 +171,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 11/06/2025 01:21:28 UTC
+ Last Updated on 12/06/2025 01:20:10 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
