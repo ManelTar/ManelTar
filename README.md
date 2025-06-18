@@ -107,7 +107,7 @@ const Manel = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -117,7 +117,7 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 55 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -152,13 +152,14 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     3 mins              █████████████████████░░░░   84.94 % 
+Dart                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -171,7 +172,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 17/06/2025 01:21:36 UTC
+ Last Updated on 18/06/2025 01:20:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
