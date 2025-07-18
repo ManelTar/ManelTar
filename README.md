@@ -152,14 +152,13 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Dart                     2 hrs 54 mins       █████████████████████████   99.89 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -172,7 +171,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 17/07/2025 01:26:24 UTC
+ Last Updated on 18/07/2025 01:25:49 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
