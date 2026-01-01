@@ -117,7 +117,7 @@ const Manel = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -171,7 +171,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 31/12/2025 01:25:08 UTC
+ Last Updated on 01/01/2026 01:42:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
