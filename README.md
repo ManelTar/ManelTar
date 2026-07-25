@@ -123,42 +123,6 @@ const Manel = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌆 Daytime                45 commits          ██████████████░░░░░░░░░░░   57.69 % 
-🌃 Evening                22 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Tuesday                  25 commits          ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Friday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Saturday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -169,7 +133,7 @@ Kotlin                   1 repo              ████████░░░�
 
 
 
- Last Updated on 24/07/2026 02:24:49 UTC
+ Last Updated on 25/07/2026 02:23:23 UTC
 <!--END_SECTION:waka-->
 <!--
 **ManelTar/ManelTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
